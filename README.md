@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Amar
 - 👀 I’m interested in learning new tricks and languages
 - 🌱 I’m currently learning HTML, CSS & JS
+- https://portfolioamarosmic.000webhostapp.com/
 - 📫 osmic.amar1@gmail.com
 
 <!---
